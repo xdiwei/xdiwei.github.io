@@ -53,22 +53,22 @@ en: &DEFAULT_EN
       - title: "Xdiwei Tech was founded in Shenzhen, China"
         year: "October 2023"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.jpeg
         alt:
       - title: "Started partnership with Inceptio Technology"
         year: "Novermber 2023"
         desc: "We proudly provide our fuel efficient autonomous driving solution to our partner"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.jpeg
         alt:
       - title: "Began partnership with Pixbot Ltd"
         year: "December 2023"
         desc: "We develop next-generation AI photography solution to our partner."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.webp
         alt: image alt text
       - title: "Announced AI robotics roadmap"
         year: "May 2024"
         desc: "We expand our solutions to embodied AI field."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.webp
         alt:
         # you can enforce the alignment
         align: right
