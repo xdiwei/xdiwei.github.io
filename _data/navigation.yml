@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Career"
       url: https://xdiwei.tech/job
     - title: "中文"
-      url: https://xdiwei.tech/cn
+      url: https://xdiwei.me
 en-US:
   <<: *DEFAULT_EN
 en-CA:
