@@ -63,12 +63,12 @@ en: &DEFAULT_EN
       - title: "Began partnership with Pixbot Ltd"
         year: "December 2023"
         desc: "We develop next-generation AI photography solution to our partner."
-        image: assets/img/timeline/3.webp
+        image: assets/img/timeline/3.jpeg
         alt: image alt text
       - title: "Announced AI robotics roadmap"
         year: "May 2024"
         desc: "We expand our solutions to embodied AI field."
-        image: assets/img/timeline/4.webp
+        image: assets/img/timeline/4.jpeg
         alt:
         # you can enforce the alignment
         align: right

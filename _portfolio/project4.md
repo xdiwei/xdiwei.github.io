@@ -1,7 +1,7 @@
 ---
 title: Fuel Estimation
 subtitle: Fuel estimation algorithm using deep learning technologies.
-image: assets/img/portfolio/fuel-full.png
+image: assets/img/portfolio/fuel_full.png
 alt: 
 
 caption:
