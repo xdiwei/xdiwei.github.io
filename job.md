@@ -9,9 +9,9 @@ title: Career
 
 **Current Openings:**
 
-Data Analyst/Intern: <https://xdiwei.tech/jobs/ds>.
+Data Analyst/Intern: <https://xdiwei.tech/ds>.
 
-Machine Learning Engineer/Intern: <https://xdiwei.tech/jobs/me>.
+Machine Learning Engineer/Intern: <https://xdiwei.tech/me>.
 
 **CONTACT US**
 
