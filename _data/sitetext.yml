@@ -82,16 +82,16 @@ en: &DEFAULT_EN
       - name: "David Wong"
         role: "CEO"
         image: assets/img/team/1.jpg
-      - name: "Emily Tong"
+      - name: "Emily Tang"
         role: "VP of Marketing and HR"
-        image: assets/img/team/catoon.png
-      - name: "Edwin Sun"
+        image: assets/img/team/2.png
+      - name: "Cherry Sun"
         role: "CTO"
         image: assets/img/team/3.jpg
 
   contact:
     title: "Contact Us"
-    text: "Press: info@xdiwei.tech"
+    text: "Press: info@xdiwei.tech\n Address: 701, East Block, 4055 Jiabin Rd, Luohu, Shenzhen, China"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

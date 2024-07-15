@@ -9,12 +9,15 @@ title: Career
 
 **Current Openings:**
 
+Software Engineer/Intern: <https://xdiwei.tech/sde>.
+
 Data Analyst/Intern: <https://xdiwei.tech/ds>.
 
 Machine Learning Engineer/Intern: <https://xdiwei.tech/me>.
 
+
 **CONTACT US**
 
-You can send you CV to <a href="mailto:{{ site.email }}">{{ site.email }}</a> if there is no suitable openings now, we will contact you once we have openings.
+Please submit your CV to <a href="mailto:{{ hro@xdiwei.onmicrosoft.com }}"></a>. If there is no suitable openings now, we will contact you once we have openings.
 
 

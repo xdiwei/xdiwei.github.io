@@ -45,4 +45,4 @@ To apply for this position, please submit your resume and cover letter detailing
 
 **How to Apply**
 
-Please submit your CV to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Please submit your CV to <a href="mailto:{{ hro@xdiwei.onmicrosoft.com }}"></a>.
