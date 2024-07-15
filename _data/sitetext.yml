@@ -84,14 +84,14 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpg
       - name: "Emily Tang"
         role: "VP of Marketing and HR"
-        image: assets/img/team/2.png
+        image: assets/img/team/2.jpg
       - name: "Cherry Sun"
         role: "CTO"
         image: assets/img/team/3.jpg
 
   contact:
     title: "Contact Us"
-    text: "Press: info@xdiwei.tech\n Address: 701, East Block, 4055 Jiabin Rd, Luohu, Shenzhen, China"
+    text: "Press: info@xdiwei.tech <br> Address: 7/F, East Block, 4055 Jiabin Rd, Luohu, Shenzhen, China"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
