@@ -18,6 +18,6 @@ Machine Learning Engineer/Intern: <https://xdiwei.tech/me>.
 
 **CONTACT US**
 
-Please submit your CV to <a href="mailto:{{ hro@xdiwei.onmicrosoft.com }}"></a>. If there is no suitable openings now, we will contact you once we have openings.
+Please submit your CV to hro@xdiwei.onmicrosoft.com. If there is no suitable openings now, we will contact you once we have openings.
 
 

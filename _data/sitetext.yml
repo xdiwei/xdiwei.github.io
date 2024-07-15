@@ -91,7 +91,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Press: info@xdiwei.tech <br> Address: 7/F, East Block, 4055 Jiabin Rd, Luohu, Shenzhen, China"
+    text: "Press: info@xdiwei.onmicrosoft.com  <br> Address: 7/F, East Block, 4055 Jiabin Rd, Luohu, Shenzhen, China"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
