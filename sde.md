@@ -38,4 +38,4 @@ Xdiwei Tech is an AI solutions provider for the industry. We develop cutting-edg
 - A dynamic work environment that fosters innovation and collaboration
 - The chance to work at the cutting edge of AI technology and contribute to the growth of a rapidly evolving industry
 
-Please submit your CV to <a href="mailto:{{ hro@xdiwei.onmicrosoft.com }}"></a>.
+Please submit your CV to <a href="mailto:hro@xdiwei.onmicrosoft.com"></a>.
